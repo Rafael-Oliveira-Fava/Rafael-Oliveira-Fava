@@ -12,15 +12,6 @@ Minha experiência recente envolve a implementação de autenticação segura vi
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira-Fava&show_icons=true&theme=radical" alt="Status do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-Fava&layout=compact&theme=radical" alt="Top Linguagens" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo:
 
 <p align="left">
