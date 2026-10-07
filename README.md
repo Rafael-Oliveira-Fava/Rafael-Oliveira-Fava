@@ -25,10 +25,8 @@ Gosto de construir soluções que unem tecnologia, design e usabilidade — da i
 
 <!-- Troque SEU_USUARIO pelo seu @ do GitHub antes de publicar. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira-Fava
-&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-Fava
-&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Rafael" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira-Fava&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-Fava&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Rafael" />
 </p>
 
 ## 🛠️ Tecnologias e ferramentas
@@ -66,7 +64,7 @@ Gosto de construir soluções que unem tecnologia, design e usabilidade — da i
 
 <!-- A animação abaixo é criada automaticamente pelo workflow em .github/workflows/snake.yml. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Animação da grade de contribuições do GitHub" />
+  <img src="https://raw.githubusercontent.com/Rafael-Oliveira-Fava/Rafael-Oliveira-Fava/output/github-contribution-grid-snake-dark.svg" alt="Animação da grade de contribuições do GitHub" />
 </p>
 
 ## 📫 Vamos conversar?
