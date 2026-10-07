@@ -1,6 +1,12 @@
-# Olá, eu sou o Rafael Oliveira Fava! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+Oliveira+Fava!+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas;Criando+solu%C3%A7%C3%B5es+com+tecnologia+e+prop%C3%B3sito." alt="Animação de apresentação" />
+  </a>
+</p>
 
-### Desenvolvedor em formação | SENAI-SP
+<p align="center">
+  Desenvolvedor em formação · SENAI-SP
+</p>
 
 Sou estudante de **Desenvolvimento de Sistemas no SENAI-SP**, apaixonado por transformar ideias e lógica de programação em experiências digitais funcionais, intuitivas e centradas nas pessoas.
 
@@ -14,6 +20,14 @@ Gosto de construir soluções que unem tecnologia, design e usabilidade — da i
 - 💡 Interesse em desenvolvimento web, automação e aplicações com IA
 - 🎨 Foco em interfaces responsivas, acessíveis e com boa experiência de uso
 - 🔐 Experiência com autenticação, integrações de APIs e bancos de dados
+
+## 📊 Minha atividade no GitHub
+
+<!-- Troque SEU_USUARIO pelo seu @ do GitHub antes de publicar. -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Rafael" />
+</p>
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -45,6 +59,13 @@ Gosto de construir soluções que unem tecnologia, design e usabilidade — da i
 - Projetos de automação com **Arduino** e soluções assistidas por **IA**.
 
 ---
+
+## 🐍 Contribuições em movimento
+
+<!-- A animação abaixo é criada automaticamente pelo workflow em .github/workflows/snake.yml. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Animação da grade de contribuições do GitHub" />
+</p>
 
 ## 📫 Vamos conversar?
 
