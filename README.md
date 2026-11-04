@@ -23,12 +23,6 @@ Gosto de construir soluções que unem tecnologia, design e usabilidade — da i
 
 ## 📊 Minha atividade no GitHub
 
-<!-- Troque SEU_USUARIO pelo seu @ do GitHub antes de publicar. -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira-Fava&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-Fava&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Rafael" />
-</p>
-
 ## 🛠️ Tecnologias e ferramentas
 
 **Front-end**
