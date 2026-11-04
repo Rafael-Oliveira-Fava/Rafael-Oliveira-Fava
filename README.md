@@ -21,8 +21,6 @@ Gosto de construir soluções que unem tecnologia, design e usabilidade — da i
 - 🎨 Foco em interfaces responsivas, acessíveis e com boa experiência de uso
 - 🔐 Experiência com autenticação, integrações de APIs e bancos de dados
 
-## 📊 Minha atividade no GitHub
-
 ## 🛠️ Tecnologias e ferramentas
 
 **Front-end**
